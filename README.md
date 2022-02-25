@@ -1,1 +1,1 @@
-This is Line A in master.
+This is Line B in feature.
